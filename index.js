@@ -29,6 +29,6 @@ function checkForm(event) {
     document.getElementById("error").innerHTML = fail;
   } else {
     alert("Data sent");
-    window.location = "portfolio-devx.netlify.app";
+    window.location = "https://portfolio-devx.netlify.app";
   }
 }
